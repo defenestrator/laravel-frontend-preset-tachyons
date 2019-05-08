@@ -1,10 +1,10 @@
 {
-    "name": "laravel-frontend-presets/tachyons",
-    "description": "Laravel 5.5 frontend preset for Tachyons",
+    "name": "defenestrator/laravel-frontend-preset-tachyons",
+    "description": "Laravel 5.8 frontend preset for Tachyons",
     "keywords": ["laravel", "preset", "tachyons"],
     "license": "MIT",
     "require": {
-        "laravel/framework": "5.5.*"
+        "laravel/framework": "5.8.*"
     },
     "autoload": {
         "psr-4": {
