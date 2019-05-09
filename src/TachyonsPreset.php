@@ -27,7 +27,7 @@ class TachyonsPreset extends Preset
     protected static function updatePackageArray(array $packages)
     {
         return [
-            'tachyons-sass' => '^4.7.4',
+            'tachyons-sass' => '^4.9.5',
         ] + Arr::except($packages, ['bootstrap-sass', 'jquery']);
     }
 

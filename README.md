@@ -2,7 +2,7 @@
 
 Preset for [Tachyons](http://tachyons.io) scaffolding on a new Laravel 5.8.x project.
 
-*Current version:* **Tachyons 4.10.0**
+*Current version:* **Tachyons 4.9.5**
 
 ## Usage
 
