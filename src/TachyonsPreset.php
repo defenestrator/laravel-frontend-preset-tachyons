@@ -33,12 +33,12 @@ class TachyonsPreset extends Preset
 
     protected static function updateSass()
     {
-        copy(__DIR__.'/tachyons-stubs/app.scss', resource_path('assets/sass/app.scss'));
+        copy(__DIR__.'/tachyons-stubs/app.scss', resource_path('sass/app.scss'));
     }
 
     protected static function updateBootstrapping()
     {
-        copy(__DIR__.'/tachyons-stubs/bootstrap.js', resource_path('assets/js/bootstrap.js'));
+        copy(__DIR__.'/tachyons-stubs/bootstrap.js', resource_path('js/bootstrap.js'));
     }
 
     protected static function updateWelcomePage()
